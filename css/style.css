@@ -391,4 +391,8 @@ footer .credit a {
   .hero .container .cta a {
     padding-left: 20rem;
   }
+  footer {
+    display: flex;
+    flex-wrap: wrap;
+  }
 }
